@@ -1,0 +1,11 @@
+name: amygdala-asymmetry
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - nilearn
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyter

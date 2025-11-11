@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@openneuro/cli": "npm:@jsr/openneuro__cli@^4.39.3"
+  }
+}
